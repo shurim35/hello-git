@@ -8,6 +8,8 @@ int main() {
     for (int i=1; i<=3 ; i++) {
         cout << " Hello Git ! This is line " << i ;
     }
+
+    cout << " End of program";
     
     return 0;
 }
